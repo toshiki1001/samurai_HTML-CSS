@@ -1,0 +1,45 @@
+2021-06-09 07:37:25 [ERROR]: log level: info
+2021-06-09 07:37:25 [INFO]: Retrieving AWS endpoint data
+2021-06-09 07:37:25 [INFO]: OS:  Linux x64 4.14.232-176.381.amzn2.x86_64
+2021-06-09 07:37:25 [INFO]: AWS Cloud9 Extension Host Version:  1.42.0
+2021-06-09 07:37:25 [INFO]: AWS Toolkit Version:  1.25.0-1c2c5a28c7e5
+2021-06-09 07:42:26 [INFO]: Successfully sent a telemetry batch of 4
+2021-06-09 07:48:57 [ERROR]: Error getting AccountId: [ExpiredToken: The security token included in the request is expired
+	at constructor.p (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:44:9005)
+	at constructor.callListeners (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:22254)
+	at constructor.emit (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:21963)
+	at constructor.emitEvent (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:7927)
+	at constructor.e (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:3513)
+	at R.runTo (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:57:1736)
+	at /opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:57:1948
+	at constructor.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:3724)
+	at constructor.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:7982)
+	at constructor.callListeners (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:22358)
+	at constructor.emit (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:21963)
+	at constructor.emitEvent (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:7927)
+	at constructor.e (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:3513)
+	at R.runTo (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:57:1736)
+	at /opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:57:1948
+	at constructor.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:3724)
+	at constructor.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:7982)
+	at constructor.callListeners (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:22358)
+	at e (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:45:22139)
+	at IncomingMessage.<anonymous> (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:40:6016259)
+	at IncomingMessage.emit (events.js:326:22)
+	at IncomingMessage.EventEmitter.emit (domain.js:483:12)
+	at endReadableNT (_stream_readable.js:1241:12)
+	at processTicksAndRejections (internal/process/task_queues.js:84:21)] {
+  code: 'ExpiredToken',
+  time: 2021-06-09T07:48:57.495Z,
+  requestId: 'cb05bea4-c7a6-499e-9173-7c57155104d7',
+  statusCode: 403,
+  retryable: true
+}
+2021-06-09 07:48:57 [ERROR]: Error trying to connect to AWS with Credentials Provider profile:default. Toolkit will now disconnect from AWS. [Error: Could not determine Account Id for credentials
+	at Il.login (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:1840:569)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async kt (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:1834:540)
+	at async Tu (/opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:1834:984)
+	at async /opt/c9/dependencies/aws-toolkit-vscode/b3e266ee611108735163c1d5aaa668832ac59a99eb1ce1f39b6c7d7e93dbf4118301c9fb320e578554948e0447cc97dc0b6d7cdf140af16f00935f9f75b976e4/dist/extension.js:2142:428]
+2021-06-09 07:48:57 [WARN]: autoconnect: failed to connect: 'profile:default'
+2021-06-09 07:52:27 [INFO]: Successfully sent a telemetry batch of 1

@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+body {
+	margin: 15px;
+	padding: 15px;
+	font-size: 13px;
+	line-height: 150%;
+	background-color: yellow
+}
+
+.p {
+    font-size:20px;
+}
+
+h1{
+    font-size: 15px
+}
+h2{
+    font-size: 15px
+}
+.rikuto{
+    heghit:150px;
+    width:150PX;
+}
+
+.yui{
+    eghit:150px;
+    width:150PX;
+    
+}
+.kid{
+    display: inline-block
+}
+
+.kid1{
+    float:left;
+}
+.kid2{
+    float:right;
+}
